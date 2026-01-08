@@ -1,0 +1,5 @@
+{
+  "name": "Melurna Privacy Dashboard",
+  "description": "Enterprise cybersecurity compliance platform POC for forensic analysis of web traffic logs.",
+  "requestFramePermissions": []
+}
